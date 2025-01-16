@@ -112,7 +112,7 @@ footer {
     }
 
     aside {
-        display: none;
+        display: flex
     }
 
     .contieneDivs {
